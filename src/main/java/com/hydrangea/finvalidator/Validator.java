@@ -9,6 +9,7 @@ package com.hydrangea.finvalidator;
  *
  * @author Anh Tri
  */
-public class Validator {
-
+public interface Validator<T> {
+    ValidationResult validate(T input);
+    
 }
