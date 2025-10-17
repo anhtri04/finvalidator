@@ -1,5 +1,6 @@
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\utils\ValidationUtils.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\validators\AccountNumberValidator.java
+C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\annotation\AccountNumberConstraintValidator.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\validators\TransactionCodeValidator.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\Validator.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\validators\EmailValidator.java
@@ -7,9 +8,12 @@ C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\u
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\validators\DateValidator.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\validators\CardNumberValidator.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\exceptions\ValidationException.java
+C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\annotation\EmailConstraintValidator.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\ValidationResult.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\utils\Luhn.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\validators\PasswordStrengthValidator.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\validators\CurrencyCodeValidator.java
+C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\annotation\AccountNumber.java
+C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\annotation\Email.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\validators\PhoneNumberValidator.java
 C:\Users\Anh Tri\Desktop\finvalidator\src\main\java\com\hydrangea\finvalidator\validators\CitizenIdValidator.java
